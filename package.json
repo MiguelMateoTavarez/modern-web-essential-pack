@@ -1,0 +1,25 @@
+{
+  "name": "modern-web-essential-pack",
+  "displayName": "Modern Web Development Essentials",
+  "version": "1.0.0",
+  "publisher": "local-share",
+  "description": "A curated collection of trusted extensions for modern web development, featuring Tailwind CSS support, code formatting, Docker management, and a clean UI theme.",
+  "icon": "ico.png",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "bradlc.vscode-tailwindcss",
+    "BeardedBear.beardedtheme",
+    "thang-nm.flow-icons",
+    "esbenp.prettier-vscode",
+    "ms-azuretools.vscode-docker"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://localhost/mi-pack-local.git"
+  }
+}
