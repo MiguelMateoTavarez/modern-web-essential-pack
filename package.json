@@ -20,6 +20,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://localhost/mi-pack-local.git"
+    "url": "https://github.com/MiguelMateoTavarez/modern-web-essential-pack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MiguelMateoTavarez/modern-web-essential-pack/issues"
   }
 }
