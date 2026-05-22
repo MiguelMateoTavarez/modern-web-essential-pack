@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/visual-studio-marketplace/v/local-share.modern-web-essential-pack?style=flat-square&color=blue" alt="Version" />
-  <img src="https://img.shields.io/visual-studio-marketplace/i/local-share.modern-web-essential-pack?style=flat-square" alt="Installs" />
+  <img src="https://img.shields.io/visual-studio-marketplace/v/trusted-packs.modern-web-essential-pack?style=flat-square&color=blue" alt="Version" />
+  <img src="https://img.shields.io/visual-studio-marketplace/i/trusted-packs.modern-web-essential-pack?style=flat-square" alt="Installs" />
 </p>
 
 ---

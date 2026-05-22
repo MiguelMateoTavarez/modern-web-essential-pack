@@ -2,7 +2,7 @@
   "name": "modern-web-essential-pack",
   "displayName": "Modern Web Development Essentials",
   "version": "1.0.0",
-  "publisher": "local-share",
+  "publisher": "trusted-packs",
   "description": "A curated collection of trusted extensions for modern web development, featuring Tailwind CSS support, code formatting, Docker management, and a clean UI theme.",
   "icon": "ico.png",
   "engines": {
