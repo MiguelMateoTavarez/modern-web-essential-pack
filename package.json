@@ -5,6 +5,7 @@
   "publisher": "trusted-packs",
   "description": "A curated collection of trusted extensions for modern web development, featuring Tailwind CSS support, code formatting, Docker management, and a clean UI theme.",
   "icon": "ico.png",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.84.0"
   },
