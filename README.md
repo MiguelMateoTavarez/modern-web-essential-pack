@@ -19,6 +19,13 @@ This pack automatically installs and configures the following tools:
 - **Flow Icons** (`thang-nm.flow-icons`) - Clean and modern file iconography.
 - **Prettier** (`esbenp.prettier-vscode`) - Opinionated, consistent code formatter.
 - **Docker** (`ms-azuretools.vscode-docker`) - Seamless container management directly from your editor.
+- **Auto Close Tag** (`formulahendry.auto-close-tag`) - Automatically add HTML/XML close tag.
+- **Auto Rename Tag** (`formulahendry.auto-rename-tag`) - Automatically rename paired HTML/XML tags.
+- **Error Lens** (`usernamehw.errorlens`) - Improve highlighting of errors, warnings, and other diagnostics.
+- **EditorConfig** (`EditorConfig.EditorConfig`) - EditorConfig support for VS Code.
+- **Better Comments** (`aaron-bond.better-comments`) - Write more human-friendly comments.
+- **Pretty TypeScript Errors** (`yoavbls.pretty-ts-errors`) - Make TypeScript errors readable.
+- **DotENV** (`mikestead.dotenv`) - Syntax highlighting for .env files.
 
 ## 🚀 How to Use
 

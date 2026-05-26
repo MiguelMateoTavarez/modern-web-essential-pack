@@ -1,9 +1,9 @@
 {
   "name": "modern-web-essential-pack",
   "displayName": "Modern Web Development Essentials",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "trusted-packs",
-  "description": "A curated collection of trusted extensions for modern web development, featuring Tailwind CSS support, code formatting, Docker management, and a clean UI theme.",
+  "description": "A curated collection of trusted extensions for modern web development, featuring styling, formatting, container management, inline diagnostics, and advanced TypeScript assistance.",
   "icon": "ico.png",
   "license": "MIT",
   "engines": {
@@ -17,7 +17,14 @@
     "BeardedBear.beardedtheme",
     "thang-nm.flow-icons",
     "esbenp.prettier-vscode",
-    "ms-azuretools.vscode-docker"
+    "formulahendry.auto-close-tag",
+    "ms-azuretools.vscode-docker",
+    "formulahendry.auto-rename-tag",
+    "usernamehw.errorlens",
+    "EditorConfig.EditorConfig",
+    "aaron-bond.better-comments",
+    "yoavbls.pretty-ts-errors",
+    "mikestead.dotenv"
   ],
   "repository": {
     "type": "git",
